@@ -13,7 +13,7 @@ ChatBot is a Flutter-based app that allows users to chat with Gemini AI using Go
 - **Easy API Setup**: Just plug in your Gemini API key and start chatting.
 - **Clean UI**: Minimalist design for distraction-free conversations.
 
-### Chat Interface & Conversation View
+## Chat Interface & Conversation View
 
 <p float="left">
   <img src="assets/github_images/chatbot1.jpg" height="500"/>
